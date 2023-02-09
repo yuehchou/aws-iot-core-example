@@ -1,0 +1,2 @@
+awscrt==0.16.8
+awsiotsdk==1.0.0.dev0
